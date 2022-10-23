@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  namespace: rvldb
+  name: rvl-sql-deployment
+  labels:
+    app: mysql
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mysql
+  template:
+      metadata:
+        labels:
+          app: mysql
+      spec:
+        containers:
+          - name: deploy-cont
+            image: 406947468681.dkr.ecr.us-east-1.amazonaws.com/rvl-mysql:v1.0
+            ports:
+              - containerPort: 3306
+                protocol: TCP
+            env:
+              - name: MYSQL_ROOT_PASSWORD
+                value: rvl
+            imagePullPolicy: "Always"
