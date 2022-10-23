@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  namespace: rvlapp
+  name: rvl-app-deployment
+  labels:
+    app: employees
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: employees
+  template:
+    metadata:
+      labels:
+        app: employees
+    spec:
+      containers:
+        - name: app-deploycont
+          image: 406947468681.dkr.ecr.us-east-1.amazonaws.com/rvl-app:v1.0
+          ports:
+          - containerPort: 8080
+            protocol: TCP
+          env:
+            - name: DBHOST
+              value: "10.244.0.9"
+            - name: DBPORT
+              value: "3306"
+            - name: DBPWD
+              value: "rvl"
+            - name: DBUSER
+              value: "root"
+          imagePullPolicy: "Always"
