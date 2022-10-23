@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  namespace: rvldb
+  name: rvl-mysql
+  labels:
+    app: mysql
+spec:
+  containers:
+    - name: rvl-db
+      image: 406947468681.dkr.ecr.us-east-1.amazonaws.com/rvl-mysql:v1.0
+      ports:
+        - containerPort: 3306
+          protocol: TCP
+      env:
+        - name: MYSQL_ROOT_PASSWORD
+          value: rvl

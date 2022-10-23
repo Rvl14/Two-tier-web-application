@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  namespace: rvlapp
+  name: nodeport-service
+  labels:
+    app: employees
+spec:
+  ports:
+    - port: 8080
+      targetPort: 8080
+      nodePort: 30001
+  type: NodePort
+  selector:
+    app: employees
