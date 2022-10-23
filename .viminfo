@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1666490019,,"wq"
+|2,0,1666495380,,"wq"
 :x
 |2,0,1666489301,,"x"
 
@@ -27,32 +27,150 @@
 # Registers:
 
 # File marks:
-'0  23  16  ~/app-pod.yaml
-|4,48,23,16,1666490019,"~/app-pod.yaml"
-'1  19  21  ~/app-pod.yaml
-|4,49,19,21,1666489697,"~/app-pod.yaml"
-'2  19  21  ~/app-pod.yaml
-|4,50,19,21,1666489697,"~/app-pod.yaml"
-'3  15  17  ~/nodeport.yaml
-|4,51,15,17,1666489301,"~/nodeport.yaml"
-'4  15  0  ~/clusterip.yaml
-|4,52,15,0,1666489130,"~/clusterip.yaml"
-'5  12  20  ~/nodeport.yaml
-|4,53,12,20,1666488895,"~/nodeport.yaml"
-'6  12  20  ~/nodeport.yaml
-|4,54,12,20,1666488895,"~/nodeport.yaml"
-'7  19  21  ~/app-pod.yaml
-|4,55,19,21,1666488211,"~/app-pod.yaml"
-'8  19  21  ~/app-pod.yaml
-|4,56,19,21,1666488211,"~/app-pod.yaml"
-'9  19  21  ~/app-pod.yaml
-|4,57,19,21,1666488135,"~/app-pod.yaml"
+'0  16  7  ~/rs-sql.yaml
+|4,48,16,7,1666495380,"~/rs-sql.yaml"
+'1  26  7  ~/rs-sql.yaml
+|4,49,26,7,1666495232,"~/rs-sql.yaml"
+'2  25  7  ~/rs-sql.yaml
+|4,50,25,7,1666495232,"~/rs-sql.yaml"
+'3  20  8  ~/rs-sql.yaml
+|4,51,20,8,1666495093,"~/rs-sql.yaml"
+'4  20  8  ~/rs-sql.yaml
+|4,52,20,8,1666495093,"~/rs-sql.yaml"
+'5  19  8  ~/rs-sql.yaml
+|4,53,19,8,1666495093,"~/rs-sql.yaml"
+'6  19  8  ~/rs-sql.yaml
+|4,54,19,8,1666495093,"~/rs-sql.yaml"
+'7  25  23  ~/rs-sql.yaml
+|4,55,25,23,1666494778,"~/rs-sql.yaml"
+'8  26  23  ~/rs-sql.yaml
+|4,56,26,23,1666494778,"~/rs-sql.yaml"
+'9  25  23  ~/rs-sql.yaml
+|4,57,25,23,1666494778,"~/rs-sql.yaml"
 
 # Jumplist (newest first):
+-'  16  7  ~/rs-sql.yaml
+|4,39,16,7,1666495380,"~/rs-sql.yaml"
+-'  26  7  ~/rs-sql.yaml
+|4,39,26,7,1666495350,"~/rs-sql.yaml"
+-'  25  7  ~/rs-sql.yaml
+|4,39,25,7,1666495232,"~/rs-sql.yaml"
+-'  20  8  ~/rs-sql.yaml
+|4,39,20,8,1666495119,"~/rs-sql.yaml"
+-'  19  8  ~/rs-sql.yaml
+|4,39,19,8,1666495119,"~/rs-sql.yaml"
+-'  19  8  ~/rs-sql.yaml
+|4,39,19,8,1666495093,"~/rs-sql.yaml"
+-'  25  23  ~/rs-sql.yaml
+|4,39,25,23,1666495026,"~/rs-sql.yaml"
+-'  25  23  ~/rs-sql.yaml
+|4,39,25,23,1666494778,"~/rs-sql.yaml"
+-'  24  23  ~/rs-sql.yaml
+|4,39,24,23,1666494778,"~/rs-sql.yaml"
+-'  24  23  ~/rs-sql.yaml
+|4,39,24,23,1666494778,"~/rs-sql.yaml"
+-'  1  0  ~/rs-sql.yaml
+|4,39,1,0,1666494446,"~/rs-sql.yaml"
+-'  1  0  ~/rs-sql.yaml
+|4,39,1,0,1666494446,"~/rs-sql.yaml"
+-'  1  0  ~/rs-sql.yaml
+|4,39,1,0,1666494446,"~/rs-sql.yaml"
+-'  1  0  ~/rs-sql.yaml
+|4,39,1,0,1666494446,"~/rs-sql.yaml"
+-'  23  16  ~/app-pod.yaml
+|4,39,23,16,1666490019,"~/app-pod.yaml"
+-'  23  16  ~/app-pod.yaml
+|4,39,23,16,1666490019,"~/app-pod.yaml"
+-'  23  16  ~/app-pod.yaml
+|4,39,23,16,1666490019,"~/app-pod.yaml"
+-'  23  16  ~/app-pod.yaml
+|4,39,23,16,1666490019,"~/app-pod.yaml"
+-'  23  16  ~/app-pod.yaml
+|4,39,23,16,1666490019,"~/app-pod.yaml"
+-'  23  16  ~/app-pod.yaml
+|4,39,23,16,1666490019,"~/app-pod.yaml"
+-'  23  16  ~/app-pod.yaml
+|4,39,23,16,1666490019,"~/app-pod.yaml"
+-'  23  16  ~/app-pod.yaml
+|4,39,23,16,1666490019,"~/app-pod.yaml"
+-'  23  16  ~/app-pod.yaml
+|4,39,23,16,1666490019,"~/app-pod.yaml"
+-'  23  16  ~/app-pod.yaml
+|4,39,23,16,1666490019,"~/app-pod.yaml"
+-'  23  16  ~/app-pod.yaml
+|4,39,23,16,1666490019,"~/app-pod.yaml"
+-'  23  16  ~/app-pod.yaml
+|4,39,23,16,1666490019,"~/app-pod.yaml"
+-'  23  16  ~/app-pod.yaml
+|4,39,23,16,1666490019,"~/app-pod.yaml"
+-'  23  16  ~/app-pod.yaml
+|4,39,23,16,1666490019,"~/app-pod.yaml"
+-'  23  16  ~/app-pod.yaml
+|4,39,23,16,1666490019,"~/app-pod.yaml"
 -'  23  16  ~/app-pod.yaml
 |4,39,23,16,1666490019,"~/app-pod.yaml"
 -'  19  21  ~/app-pod.yaml
 |4,39,19,21,1666489924,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489924,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489924,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489924,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489924,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489924,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489924,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489924,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489924,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489924,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489924,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489924,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489924,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489924,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489924,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489924,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489697,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489697,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489697,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489697,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489697,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489697,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489697,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489697,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489697,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489697,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489697,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489697,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489697,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489697,"~/app-pod.yaml"
+-'  19  21  ~/app-pod.yaml
+|4,39,19,21,1666489697,"~/app-pod.yaml"
 -'  19  21  ~/app-pod.yaml
 |4,39,19,21,1666489697,"~/app-pod.yaml"
 -'  15  17  ~/nodeport.yaml
@@ -63,194 +181,88 @@
 |4,39,15,17,1666489301,"~/nodeport.yaml"
 -'  15  17  ~/nodeport.yaml
 |4,39,15,17,1666489301,"~/nodeport.yaml"
--'  12  20  ~/nodeport.yaml
-|4,39,12,20,1666489139,"~/nodeport.yaml"
--'  12  20  ~/nodeport.yaml
-|4,39,12,20,1666489139,"~/nodeport.yaml"
--'  12  20  ~/nodeport.yaml
-|4,39,12,20,1666489139,"~/nodeport.yaml"
--'  12  20  ~/nodeport.yaml
-|4,39,12,20,1666489139,"~/nodeport.yaml"
--'  15  0  ~/clusterip.yaml
-|4,39,15,0,1666489130,"~/clusterip.yaml"
--'  15  0  ~/clusterip.yaml
-|4,39,15,0,1666489130,"~/clusterip.yaml"
--'  15  0  ~/clusterip.yaml
-|4,39,15,0,1666489130,"~/clusterip.yaml"
--'  15  0  ~/clusterip.yaml
-|4,39,15,0,1666489130,"~/clusterip.yaml"
--'  15  0  ~/clusterip.yaml
-|4,39,15,0,1666489130,"~/clusterip.yaml"
--'  15  0  ~/clusterip.yaml
-|4,39,15,0,1666489130,"~/clusterip.yaml"
--'  15  0  ~/clusterip.yaml
-|4,39,15,0,1666489130,"~/clusterip.yaml"
--'  15  0  ~/clusterip.yaml
-|4,39,15,0,1666489130,"~/clusterip.yaml"
--'  12  20  ~/nodeport.yaml
-|4,39,12,20,1666488895,"~/nodeport.yaml"
--'  12  20  ~/nodeport.yaml
-|4,39,12,20,1666488895,"~/nodeport.yaml"
--'  12  20  ~/nodeport.yaml
-|4,39,12,20,1666488895,"~/nodeport.yaml"
--'  12  20  ~/nodeport.yaml
-|4,39,12,20,1666488895,"~/nodeport.yaml"
--'  12  20  ~/nodeport.yaml
-|4,39,12,20,1666488895,"~/nodeport.yaml"
--'  12  20  ~/nodeport.yaml
-|4,39,12,20,1666488895,"~/nodeport.yaml"
--'  12  20  ~/nodeport.yaml
-|4,39,12,20,1666488895,"~/nodeport.yaml"
--'  12  20  ~/nodeport.yaml
-|4,39,12,20,1666488895,"~/nodeport.yaml"
 -'  15  17  ~/nodeport.yaml
-|4,39,15,17,1666488882,"~/nodeport.yaml"
+|4,39,15,17,1666489301,"~/nodeport.yaml"
 -'  15  17  ~/nodeport.yaml
-|4,39,15,17,1666488882,"~/nodeport.yaml"
+|4,39,15,17,1666489301,"~/nodeport.yaml"
 -'  15  17  ~/nodeport.yaml
-|4,39,15,17,1666488882,"~/nodeport.yaml"
+|4,39,15,17,1666489301,"~/nodeport.yaml"
 -'  15  17  ~/nodeport.yaml
-|4,39,15,17,1666488882,"~/nodeport.yaml"
+|4,39,15,17,1666489301,"~/nodeport.yaml"
 -'  15  17  ~/nodeport.yaml
-|4,39,15,17,1666488882,"~/nodeport.yaml"
+|4,39,15,17,1666489301,"~/nodeport.yaml"
 -'  15  17  ~/nodeport.yaml
-|4,39,15,17,1666488882,"~/nodeport.yaml"
+|4,39,15,17,1666489301,"~/nodeport.yaml"
 -'  15  17  ~/nodeport.yaml
-|4,39,15,17,1666488882,"~/nodeport.yaml"
+|4,39,15,17,1666489301,"~/nodeport.yaml"
 -'  15  17  ~/nodeport.yaml
-|4,39,15,17,1666488882,"~/nodeport.yaml"
--'  19  21  ~/app-pod.yaml
-|4,39,19,21,1666488211,"~/app-pod.yaml"
--'  19  21  ~/app-pod.yaml
-|4,39,19,21,1666488211,"~/app-pod.yaml"
--'  19  21  ~/app-pod.yaml
-|4,39,19,21,1666488211,"~/app-pod.yaml"
--'  19  21  ~/app-pod.yaml
-|4,39,19,21,1666488211,"~/app-pod.yaml"
--'  19  21  ~/app-pod.yaml
-|4,39,19,21,1666488211,"~/app-pod.yaml"
--'  19  21  ~/app-pod.yaml
-|4,39,19,21,1666488211,"~/app-pod.yaml"
--'  19  21  ~/app-pod.yaml
-|4,39,19,21,1666488211,"~/app-pod.yaml"
--'  19  21  ~/app-pod.yaml
-|4,39,19,21,1666488211,"~/app-pod.yaml"
--'  19  21  ~/app-pod.yaml
-|4,39,19,21,1666488135,"~/app-pod.yaml"
--'  19  21  ~/app-pod.yaml
-|4,39,19,21,1666488135,"~/app-pod.yaml"
--'  19  21  ~/app-pod.yaml
-|4,39,19,21,1666488135,"~/app-pod.yaml"
--'  19  21  ~/app-pod.yaml
-|4,39,19,21,1666488135,"~/app-pod.yaml"
--'  19  21  ~/app-pod.yaml
-|4,39,19,21,1666488135,"~/app-pod.yaml"
--'  19  21  ~/app-pod.yaml
-|4,39,19,21,1666488135,"~/app-pod.yaml"
--'  19  21  ~/app-pod.yaml
-|4,39,19,21,1666488135,"~/app-pod.yaml"
--'  19  21  ~/app-pod.yaml
-|4,39,19,21,1666488135,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487967,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487967,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487967,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487967,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487967,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487967,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487967,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487967,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487967,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487967,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487967,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487967,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487967,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487967,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487967,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487967,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487967,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487967,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487920,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487920,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487920,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487920,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487920,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487920,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487920,"~/app-pod.yaml"
--'  10  3  ~/app-pod.yaml
-|4,39,10,3,1666487920,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
--'  11  4  ~/app-pod.yaml
-|4,39,11,4,1666487796,"~/app-pod.yaml"
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
+-'  15  17  ~/nodeport.yaml
+|4,39,15,17,1666489301,"~/nodeport.yaml"
 
 # History of marks within files (newest to oldest):
+
+> ~/rs-sql.yaml
+	*	1666495379	0
+	"	16	7
+	^	16	8
+	.	16	0
+	+	26	23
+	+	25	19
+	+	19	22
+	+	20	8
+	+	15	12
+	+	16	0
 
 > ~/app-pod.yaml
 	*	1666490017	0
