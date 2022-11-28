@@ -6,7 +6,7 @@ metadata:
   labels:
     app: employees
 spec:
-  replicas: 3
+  replicas: 2
   selector:
     matchLabels:
       app: employees
@@ -23,7 +23,7 @@ spec:
             protocol: TCP
           env:
             - name: DBHOST
-              value: "10.244.0.9"
+              value: " 10.100.147.7"
             - name: DBPORT
               value: "3306"
             - name: DBPWD
